@@ -1,4 +1,4 @@
-## eyangch's blog
+# eyangch's blog
 
 huh
 {% assign posts = site.posts %}
