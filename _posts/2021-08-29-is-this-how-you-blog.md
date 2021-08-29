@@ -11,4 +11,4 @@ i hope it is!!!!
 
 ## my foot just fell asleep :(
 
-$$\mathcal{O}(\sin(N))$$
+Here is a funny time complexity: \(\mathcal{O}(\sin(N))\)
