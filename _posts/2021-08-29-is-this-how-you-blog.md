@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Is This How You Post?"
 author: eyangch
 tags:   ["lol", "look", "at", "this", "noob"]
