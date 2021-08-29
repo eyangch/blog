@@ -10,3 +10,5 @@ is this a post????
 i hope it is!!!!
 
 ## my foot just fell asleep :(
+
+$$\mathcal{O}(\sin(N))$$
